@@ -11,7 +11,7 @@ export default function Home() {
               width={200}
               height={200}
               src="/images/edison.jpg"
-              alt="Edison Ade"
+              alt="Your Name"
             />
             <h1 className="mt-4 text-2xl font-semibold">Edison Ade</h1>
             <p className="text-gray-600 text-center mt-2">

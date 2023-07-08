@@ -11,12 +11,11 @@ export default function Home() {
               width={200}
               height={200}
               src="/images/edison.jpg"
-              alt="Edison Ade"
+              alt="Your Name"
             />
             <h1 className="mt-4 text-2xl font-semibold">Edison Ade</h1>
             <p className="text-gray-600 text-center mt-2">
-            Guiding businesses to start, scale and grow profitably with insightful strategies, branding, and self-care. 
-            <span className="font-extrabold italic">Passionate about AI & Tech, writing, coding, and helping businesses thrive </span>
+            Guiding businesses to start, scale and grow profitably with insightful strategies, branding, and self-care. Passionate about AI & Tech, writing, coding, and helping businesses thrive 
             </p>
           </div>
 
